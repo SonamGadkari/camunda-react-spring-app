@@ -10,7 +10,9 @@ Rejection scenario:
 ![image](https://github.com/SonamGadkari/camunda-react-spring-app/assets/43020059/27783d18-4021-4de0-a775-f82a954e6ebb)
 
 How to run this projects
-Spring boot:
+<h6>Spring boot:</h6>
+<br/>
 mvn spring-boot:run
-UI React App:
+<h6>UI React App:</h6>
+<br/>
 npm start
