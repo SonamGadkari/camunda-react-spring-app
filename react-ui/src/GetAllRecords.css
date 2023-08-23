@@ -1,0 +1,22 @@
+table{
+    width:400p;
+    box-shadow:-1px 12px 12px -6px rgba(0,0,0,0,0.5);
+}
+table,td,th{
+    padding:10px;
+    border:1px solid lightgrey;
+    border-collapse:collapse;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+td{
+    font-size: 15px;
+}
+th{
+    background-color: grey;
+    color:white;
+}
+tr:nth-child(odd){
+    background-color:lightgrey;
+}
