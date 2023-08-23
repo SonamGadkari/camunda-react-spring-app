@@ -11,8 +11,6 @@ Rejection scenario:
 
 <h5>Execution Steps</h5>
 <h6>Spring boot:</h6>
-<br/>
 mvn spring-boot:run
 <h6>UI React App:</h6>
-<br/>
 npm start
